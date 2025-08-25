@@ -32,13 +32,13 @@ docker run -p 5000:5000 docker-flask-app ```
 The app will be accessible at: **http://localhost:5000**<br>
 You should see: **Hello, Docker! 🚀**
 
-## 🏗️ Project Structure
-DOCKER-FLASK-APP/
-├── app.py          # Flask application
-├── requirements.txt # Python dependencies
-├── Dockerfile      # Docker instructions
-└── README.md       # Project documentation
-
+### 🏗️ Project Structure
+- DOCKER-FLASK-APP/
+  - app.py          # Flask application
+  - requirements.txt # Python dependencies
+  - Dockerfile      # Docker instructions
+  - README.md       # Project documentation
+    
 ## 🛠️ Technologies Used
 - Python 3.9 → Backend language
 - Flask → Web framework
