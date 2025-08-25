@@ -25,6 +25,7 @@ This project demonstrates Docker, containerization, and running a Python web app
 ```bash
 git clone https://github.com/<your-username>/DOCKER-FLASK-APP.git
 cd DOCKER-FLASK-APP
+---
 
 ### Build the Docker Image
 docker build -t docker-flask-app .
