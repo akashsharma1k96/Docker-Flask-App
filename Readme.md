@@ -16,8 +16,8 @@ This project demonstrates the basics of Docker, containerization, and running a 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/DOCKER-FLASK-APP.git
-cd DOCKER-FLASK-APP ```
+git clone ...
+cd DOCKER-FLASK-APP 
 
 ### Build the Docker Image
 This command reads the Dockerfile and creates a Docker image tagged as docker-flask-app.
