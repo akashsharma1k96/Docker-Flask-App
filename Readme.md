@@ -15,11 +15,13 @@ This project demonstrates Docker basics, containerization, and running a Python 
 - **Docker Desktop** installed ([Download here](https://www.docker.com/products/docker-desktop))  
 - Basic understanding of **command-line interface** (PowerShell, Terminal)
 
-### Clone the Repository
+## Clone the Repository
+
 Open a terminal and run:
+
 ```bash
-**git clone https://github.com/<your-username>/DOCKER-FLASK-APP.git**
-**cd DOCKER-FLASK-APP**
+git clone https://github.com/<your-username>/DOCKER-FLASK-APP.git
+cd DOCKER-FLASK-APP
 
 ## Build the Docker Image
 
