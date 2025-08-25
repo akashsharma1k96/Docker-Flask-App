@@ -34,10 +34,10 @@ You should see: Hello, Docker! 🚀
 
 ## 🏗️ Project Structure
 DOCKER-FLASK-APP/
-├── app.py          # Flask application
-├── requirements.txt # Python dependencies
-├── Dockerfile      # Docker instructions
-└── README.md       # Project documentation
+-├── app.py          # Flask application
+-├── requirements.txt # Python dependencies
+-├── Dockerfile      # Docker instructions
+-└── README.md       # Project documentation
 
 ## 🛠️ Technologies Used
 - Python 3.9 → Backend language
