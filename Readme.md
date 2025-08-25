@@ -11,7 +11,7 @@ This project demonstrates the basics of Docker, containerization, and running a 
 
 ## 🚀 Getting Started
 ### Prerequisites
-- Docker Desktop installed
+- Docker Desktop installed (download [here](https://www.docker.com/products/docker-desktop/))
 - Basic understanding of the command-line interface (PowerShell, Terminal)
 
 ### Clone the Repository
