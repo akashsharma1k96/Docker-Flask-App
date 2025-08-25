@@ -30,7 +30,7 @@ This command starts a container and maps port 5000 from your machine to port 500
 docker run -p 5000:5000 docker-flask-app ```
 ```
 **The app will be accessible at: http://localhost:5000**
-**You should see: Hello, Docker! 🚀 **
+You should see: Hello, Docker! 🚀
 
 ## 🏗️ Project Structure
 DOCKER-FLASK-APP/
