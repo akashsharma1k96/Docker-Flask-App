@@ -16,19 +16,19 @@ This project demonstrates the basics of Docker, containerization, and running a 
 
 ### Clone the Repository
 ```bash
-git clone ...
-cd DOCKER-FLASK-APP 
-
+git clone https://github.com/<your-username>/DOCKER-FLASK-APP.git
+cd DOCKER-FLASK-APP
+```
 ### Build the Docker Image
 This command reads the Dockerfile and creates a Docker image tagged as docker-flask-app.
 ```bash
 docker build -t docker-flask-app . ```
-
+```
 ### Run the Docker Container
 This command starts a container and maps port 5000 from your machine to port 5000 inside the container.
 ```bash
 docker run -p 5000:5000 docker-flask-app ```
-
+```
 **The app will be accessible at: http://localhost:5000
 You should see: Hello, Docker! 🚀**
 
