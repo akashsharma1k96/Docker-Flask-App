@@ -22,7 +22,7 @@ cd DOCKER-FLASK-APP
 ### Build the Docker Image
 This command reads the Dockerfile and creates a Docker image tagged as docker-flask-app.
 ```bash
-docker build -t docker-flask-app . ```
+docker build -t docker-flask-app .
 ```
 ### Run the Docker Container
 This command starts a container and maps port 5000 from your machine to port 5000 inside the container.
